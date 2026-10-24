@@ -1,22 +1,17 @@
 <div align="center">
   <img src="logo/logo.png" alt="Xeno Vue Logo" width="140" />
 
-  <h1>Xeno Vue</h1>
+  <h1>Xeno.JS Vue</h1>
 
-  <p><strong>Your UI framework handles the UI. Xeno handles the application.</strong></p>
-
-  <p>
-    Application architecture for Vue with explicit dependency injection,
-    CQRS, composable pipelines, and clear boundaries between presentation,
-    application behavior, and infrastructure.
-  </p>
+  <p><strong>A Typescript application framework architecture for Node.js, designed for lower technical debt, and faster infrastructure migrations.</strong></p>
+  <p>Build long-lived applications with explicit dependency injection, DDD, CQRS, and transport-independent business logic.</p>
 
   <p>
     <a href="https://www.npmjs.com/package/@xeno-js/vue">
       <img src="https://img.shields.io/npm/v/@xeno-js/vue?style=flat-square" alt="npm version" />
     </a>
-    <a href="https://github.com/xeno-js/xeno-fe">
-      <img src="https://img.shields.io/github/stars/xeno-js/xeno-fe?style=flat-square" alt="GitHub stars" />
+    <a href="https://github.com/xeno-js/vue">
+      <img src="https://img.shields.io/github/stars/xeno-js/vue?style=flat-square" alt="GitHub stars" />
     </a>
     <a href="https://img.shields.io/npm/l/@xeno-js/vue?style=flat-square">
       <img src="https://img.shields.io/npm/l/@xeno-js/vue?style=flat-square" alt="License: MIT" />
@@ -126,4 +121,4 @@ injection bridge between the Xeno runtime and the Vue component tree.
 
 ## License
 
-Released under the MIT License.
+Released under the MIT [License](LICENSE).
