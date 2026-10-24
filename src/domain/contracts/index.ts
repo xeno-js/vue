@@ -1,1 +1,1 @@
-export type * from './pipeline'
+export type * from './request-manager.contracts'
