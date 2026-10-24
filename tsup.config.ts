@@ -19,12 +19,11 @@ export default defineConfig({
     }
   },
   external: [
-    '@sentry/vue',
-    '@supabase/supabase-js',
+    '@xeno-js/core',
     '@xeno-js/shared',
-    'axios',
     'vue',
     'vue-router',
-    'zod',
+    'pinia',
+    "vue-tsc"
   ],
 })
